@@ -4,6 +4,9 @@ header {
 .footer-last {
   background-color: #000;
 }
+.grayscale-image {
+  filter: grayscale(100%);
+}
 
 @media (max-width: 575.98px) {
   .banner {
